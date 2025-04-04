@@ -1,0 +1,6 @@
+@CycleManagement_HostAddress = http://localhost:5042
+
+GET {{CycleManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
